@@ -1,0 +1,6 @@
+applications:
+- name: code-cloud-empathizers
+  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
